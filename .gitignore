@@ -29,14 +29,16 @@ yarn-debug.log*
 pnpm-debug.log*
 *.log
 
-# Env files
+# Environment files
 .env
 .env.*
 !.env.example
 
-# OS / editor
+# OS files
 .DS_Store
 Thumbs.db
+
+# Editor files
 .vscode/
 .idea/
 
