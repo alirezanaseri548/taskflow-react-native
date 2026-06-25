@@ -1,4 +1,6 @@
-﻿# TaskFlow React Native
+# TaskFlow React Native
+
+> **📥 [Download APK](https://drive.google.com/file/d/1A3rWodkHccZdOXtLUs_HObokovK1ysoq/view?usp=drive_link)**
 
 TaskFlow React Native is an offline-first mobile productivity app built with Expo, React Native, TypeScript, Expo Router, Zustand, and AsyncStorage.
 
@@ -82,7 +84,7 @@ The Settings screen contains app preferences and configuration options for manag
 - Ready for Android APK builds
 
 ## Project Structure
-`	ext
+```text
 app/
 src/
   components/
@@ -116,3 +118,8 @@ android/app/build/outputs/apk/debug/app-debug.apk
 
 text
 https://github.com/alirezanaseri548/taskflow-react-native
+
+
+---
+
+این نسخه، لینک دانلود APK را به‌صورت دکمه‌ای در بالای README قرار می‌دهد. لینک طولانی داخل متن Markdown پنهان می‌شود و فقط عبارت **Download APK** نمایش داده می‌شود.
